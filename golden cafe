@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+    <title>Blog Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans">
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/app.css">
+ </head>
+ <body>
+   <!-- start header -->
+   <div class="header">
+     <div class="slider">
+       <div class="container">
+         <div class="intro">
+           <h2>GOLDEN CAFE</h2>
+           <button>Find Our story</button>
+         </div>
+       </div>
+     </div>
+     <div class="navbar">
+       <div class="container">
+         <h2>GOL<span>Cafe</span></h2>
+          <ul>
+            <li><a href="#">HOME</a></li>
+            <li class="active"><a href="#">CAFE MENU</a></li>
+            <li><a href="#">OUR STORY</a></li>
+            <li><a href="#">SHOP</a></li>
+            <li><a href="#">OUR COMPANY</a></li>
+            <li><a href="#">CONTACT ME</a></li>
+          </ul>
+        </div>
+     </div>
+   </div>
+   <!-- END header -->
+
+   <!-- start featrues -->
+   <div class="featrues">
+     <div class="container">
+       <div class="feat">
+         <h2>VALUES</h2>
+         <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing</p>
+       </div>
+       <div class="feat">
+         <h2>SITE TERMS</h2>
+         <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing</p>
+       </div>
+       <div class="feat">
+         <h2>HOBBIES</h2>
+         <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing</p>
+       </div>
+
+     </div>
+   </div>
+   <!-- end featrues -->
+
+   <!-- start about us -->
+   <div class="about-me">
+     <div class="image">
+      <img src="https://images.pexels.com/photos/356703/pexels-photo-356703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="test">
+     </div>
+     <div class="container">
+       <div class="info">
+         <h2>About Us</h2>
+         <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing</p>
+         <div class="Hobbies">
+           <!--start about me contact -->
+             <div class ="contant">
+               <!--start icon div -->
+                 <div class="icon">
+                   <img src="https://cdn3.iconfinder.com/data/icons/drinks-8/512/Coffe_Rounded_Jar-512.png">
+                 </div>
+               <!--END icon div -->
+               <!--start text div -->
+                  <div class="text">
+                   <h3>Coffe</h3>
+                   <p>add some thingadd some thingadd some thingadd somethingaddsome</P>
+                  </div>
+               <!--END text div -->
+             </div>
+           <!--end about me contact -->
+           <!--start about me contact -->
+             <div class ="contant">
+               <!--start icon div -->
+                 <div class="icon">
+                   <img src="https://cdn1.iconfinder.com/data/icons/electricity-stuff/512/26_Electric_Coffe_Machine-512.png">
+                 </div>
+               <!--END icon div -->
+               <!--start text div -->
+                  <div class="text">
+                   <h3>Coffee Machine</h3>
+                   <p>add some thingadd some thingadd some thingadd somethingaddsome</P>
+                  </div>
+               <!--END text div -->
+             </div>
+           <!--end about me contact -->
+           <!--start about me contact -->
+             <div class ="contant">
+               <!--start icon div -->
+                 <div class="icon">
+                   <img src="https://cdn1.iconfinder.com/data/icons/seo-flat-long-shadow-squares-1/512/Break-512.png">
+                 </div>
+               <!--END icon div -->
+               <!--start text div -->
+                  <div class="text">
+                   <h3>Hot Coffe</h3>
+                   <p>add some thingadd some thingadd some thingadd somethingaddsome</P>
+                  </div>
+               <!--END text div -->
+             </div>
+           <!--end about me contact -->
+           <!--start about me contact -->
+             <div class ="contant">
+               <!--start icon div -->
+                 <div class="icon">
+                   <img src="https://cdn3.iconfinder.com/data/icons/holiday-recreations-set-1/512/Coffe-512.png">
+                 </div>
+               <!--END icon div -->
+               <!--start text div -->
+                  <div class="text">
+                   <h3>Cup Coffe</h3>
+                   <p>add some thingadd some thingadd some thingadd somethingaddsome</P>
+                  </div>
+               <!--END text div -->
+             </div>
+           <!--end about me contact -->
+        </div>
+       </div>
+     </div>
+   </div>
+   <!-- end about me -->
+
+   <!-- start my skills -->
+    <div class="my-skills">
+      <div class="container">
+         <div class="skills">
+           <h2>Our Story</h2>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd.</p>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing.</p>
+             <button>Learn More</button>
+         </div>
+         <div class="progress">
+           <div class="tecnek">
+             <h3>Coffee</h3>
+             <div><span style="width:83%">83% &nbsp;</div>
+           </div>
+           <div class="tecnek">
+             <h3>Coffee Bags</h3>
+             <div><span style="width:90%">90% &nbsp;</div>
+           </div>
+           <div class="tecnek">
+             <h3>Ground Bean</h3>
+             <div><span style="width:85%">85% &nbsp;</div>
+           </div>
+           <div class="tecnek">
+             <h3>Whole Bean</h3>
+             <div><span style="width:75%">75% &nbsp;</div>
+           </div>
+         </div>
+      </div>
+   </div>
+   <!-- end my skills -->
+
+   <!--start Resume -->
+   <div class="Resume">
+      <div class="container">
+       <div class="package">
+         <h2>CAFE MENU</h2>
+         <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing some thingadd some thingadd some thingadd some thingadd some thing</p>
+         <button>Download Menu</button>
+       </div>
+      </div>
+   </div>
+   <!-- END Resume -->
+
+   <!-- start my eduction -->
+    <div class="my-Eduction">
+      <div class="container">
+         <div class="main">
+           <h2>Our Menu</h2>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd.</p>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing.</p>
+         </div>
+         <div class="exp">
+           <div class="my-drinkcoffe">
+             <h3>Coffe </h3>
+             <span>coffe </span>
+             <button> 4.0 GPA</button>
+             <hr>
+             <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd</p>
+           </div>
+           <div class="my-drinkcoffe2">
+             <h3>Coffe Milk</h3>
+             <span>coffe & Milk</span>
+             <button> 7.0 GPA</button>
+             <hr>
+             <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd</p>
+           </div>
+         </div>
+
+         <div class="clearfix"></div>
+         <hr>
+         <div class="main">
+           <h2>Our Experience</h2>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd.</p>
+           <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing.</p>
+         </div>
+         <div class="exp">
+           <div class="my-drinkcoffe">
+             <h3>Coffe chocolate</h3>
+             <span>coffe & chocolate & milk</span>
+             <button> 15.0 GPA</button>
+             <hr>
+             <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd</p>
+           </div>
+           <div class="my-drinkcoffe2">
+             <h3>Espresoo</h3>
+             <span>Espresoo & Milk </span>
+             <button> 15.0 GPA</button>
+             <hr>
+             <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd</p>
+           </div>
+           <div class="my-drinkcoffe2">
+             <h3>Drink Coffe</h3>
+             <span>Espresoo & Milk </span>
+             <button> 4.0 GPA</button>
+             <hr>
+             <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd some thingadd</p>
+           </div>
+         </div>
+      </div>
+   </div>
+   <!-- end my eduction -->
+
+   <!--start paragraph -->
+   <div class="paragraph">
+      <div class="container">
+        <p>"add some thingadd some thingadd some thingadd some thingadd some thingadd some thing thingadd some thingadd some thingadd some thingadd some thingadd some thing."</p>
+        <h2>ahmed mohamed</h2>
+        <ul>
+          <li></li>
+          <li class="active"></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+   </div>
+   <!-- END paragraph -->
+
+   <!-- start Portofolio -->
+   <div class="Portofolio">
+      <div class="container">
+        <div class="our-text">
+          <h2>COFFE</h2>
+          <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing some thingadd some thingadd some thingadd some thingadd some thing</p>
+        </div>
+        <div class="our-work">
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+          <div><img src="IMG/art-beverage-black-982612.JPG" alt=""></div>
+        </div>
+      </div>
+   </div>
+   <!-- end Portofolio -->
+
+   <!-- start contact me -->
+   <div class="contact">
+      <div class="container">
+        <hr>
+        <div class="info">
+          <div>
+            <h2>contact me</h2>
+            <p>add some thingadd some thingadd some thingadd some thingadd some thingadd some thing  thingadd some thingadd some thingadd some thingadd some thingadd some thing.</p>
+            <P>122 33rd Street East <br>
+             Egypt & Tanta <br>
+              s7kRs 1R5
+            </P>
+            <p>
+             <strong>Email:</strong> mo@gamil.com <br>
+             <strong>Phone:</strong> 010000000000
+            </p>
+          </div>
+        </div>
+        <form class="form">
+          <label> Name *</label>
+          <input type="text">
+          <label> Email Address *</label>
+          <input type="text">
+          <label> Phone *</label>
+          <input type="text">
+          <label> Message *</label>
+          <textarea></textarea>
+          <input type="submit" value="Contact Me">
+        </form>
+      </div>
+   </div>
+   <!-- End contact me -->
+
+   <!-- start footer -->
+   <div class="footer">
+     <div class="container">
+      <p> Copyright &copy; 2018 GOL<span>Cafe</span></p>
+      <ul>
+        <li><img src="img/Facebook.png"></li>
+        <li><img src="img/Instagram.png"></li>
+        <li><img src="img/Whatsapp.png"></li>
+        <li><img src="img/youtube.png"></li>
+      </ul>
+     </div>
+   </div>
+   <!-- end footer -->
+
+ </body>
+
+</html>
